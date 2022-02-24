@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noah-duerkes
+- 👀 I’m interested in coding little projects to get better at coding.
+- 🌱 I’m currently learning Angular at my job and Java in university.
+- 💞️ I will use projects to broaden my coding-portfolio.
+- 📫 Best to reach me is by mail [noah.duerkes@gmail.com]
